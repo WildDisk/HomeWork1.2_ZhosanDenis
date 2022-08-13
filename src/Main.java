@@ -112,6 +112,7 @@ public class Main {
         //b = a + b;
         //a = -a + b;
         System.out.println("a равно " + a + " b равно " + b);
+        //System.out.printf("а равно %d, b равно %d", a, b); вот так ещё можешь использовать
     }
 
     private static void task8() {
